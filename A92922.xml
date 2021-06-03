@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad newes from the eastern parts, or, A true and perfect relation of the strange spectacles and signes, both seen and heard in the Eastern Association. Distinctly setting forth, the names of the townes and places where Englands warning-piece lately appeared. As also, the description of a most wonderfull sight (or cloud) which appeared over the famous, and chiefe city, the Hague in Holland. Whereunto is annexed, severall observations, and remarkable passages, plainly setting forth the signification of Gods signes and tokens to England and Holland. These are printed by the originall papers, and perused by the English and Dutch copies, and now published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92922</idno><idno type="EEBO-CITATION">99861571</idno>
+  <idno type="VID">159791</idno>
+  <idno type="EEBO-PROQUEST">2240892624</idno>
+  
+            <idno type="STC">Wing S257</idno>
+            <idno type="STC">Thomason E344_16</idno>
+            <idno type="STC">ESTC R200965</idno>
+            <idno type="PROQUEST">99861571</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861571e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159791)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad newes from the eastern parts, or, A true and perfect relation of the strange spectacles and signes, both seen and heard in the Eastern Association. Distinctly setting forth, the names of the townes and places where Englands warning-piece lately appeared. As also, the description of a most wonderfull sight (or cloud) which appeared over the famous, and chiefe city, the Hague in Holland. Whereunto is annexed, severall observations, and remarkable passages, plainly setting forth the signification of Gods signes and tokens to England and Holland. These are printed by the originall papers, and perused by the English and Dutch copies, and now published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>July 14. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Visions --  Early works to 1800.</term>
+               <term type="topical_term">Warnings --  Early works to 1800.</term>
+               <term type="topical_term">Curiosities and wonders --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159791:1"/>
+            <p>SAD NEWES FROM THE Eastern Parts, <hi>OR,</hi> A true and perfect relation of the strange Spectacles and Signes, both seen and heard in the Eastern Association. Distinctly setting forth, the Names of the Townes and Places where <hi>Englands</hi> Warning-Piece late<g ref="char:EOLhyphen"/>ly appeared.</p>
+            <p>As also, the description of a most won<g ref="char:EOLhyphen"/>derfull Sight (or Cloud) which appeared over the famous, and chiefe City, the Hague in <hi>Holland.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is annexed,</hi> Severall Observations, and Remarkable Passages, plainly setting forth the signification of Gods Signes and Tokens to <hi>England</hi> and <hi>Holland.</hi>
+            </p>
+            <p>These are printed by by the Originall Papers, and perused by the English and Dutch Copies, and now published accor<g ref="char:EOLhyphen"/>ding to Order.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. Alsop,</hi> July 14. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159791:2"/>
+            <pb n="1" facs="tcp:159791:2"/>
+            <head>A more full and distinct RELATION OF The strange Spectacles and Signes both seen and heard as well in <hi>England,</hi> as in the <hi>Nether<g ref="char:EOLhyphen"/>lands,</hi> upon the same day, to wit, <hi>May</hi> 21. 1646.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irst, there were heard in the Ayre in se<g ref="char:EOLhyphen"/>verall places in the Easterne Associa<g ref="char:EOLhyphen"/>tion in <hi>England,</hi> by divers persons of very good credit, such strange Mili<g ref="char:EOLhyphen"/>tary noises and sounds, as seeme to pretend wars and not peace.</p>
+            <p>As first there was heard in Marsh<g ref="char:EOLhyphen"/>land not farre from Kings-Linne in Norfolk, by those who could judge of such sounds, the bea<g ref="char:EOLhyphen"/>ting as of a whole Regiment of Drums, which did beat a perfect call.</p>
+            <pb n="2" facs="tcp:159791:3"/>
+            <p>Near unto Cambridge the same day were heard by di<g ref="char:EOLhyphen"/>vers sober, and credible persons; first, the sound of certain Pieces of Ordnance, as at the beginning of some Battell, and the noise of many Muskets shot off, as in the time of fight. The like sound of Musket shot was heard also in Suf<g ref="char:EOLhyphen"/>folk the same day.</p>
+            <p>Secondly, there were sundry strange sights and appari<g ref="char:EOLhyphen"/>tions seen in the severall Countries and Places of the Ea<g ref="char:EOLhyphen"/>stern Association upon the same day, as followeth:</p>
+            <p>First, there were seen at Combarron neer Cambride by many persons assembled at a Muster there a Spire Steeple with swords about it, neere unto New-Market toward. Thetford: there was a Pillar of a Cloud obscure to ascend from the Earth, with the hilts of a great Sword in the bot<g ref="char:EOLhyphen"/>tome of it, which Cloud fashioned it self into the forme of a sharp steeple, which was encountred by a Pike or Sphear coming down point blanck from Heaven, and threatned by another Lance or Pike, with very sharp points descen<g ref="char:EOLhyphen"/>ding out of the Skye, standing ready to interpose, but did not engage it self. The first of these Sphears being after<g ref="char:EOLhyphen"/>wards elevated, and drawn up a little higher; the Spire Steeple which came from the Earth fol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owed after it, and encountred with it the second time. This continued neere upon two hours, and was seen by many.</p>
+            <p>The like Spire Steeple with a Lance or Pike descending from above, and encountring it as before, was beholden by many persons, Inhabitants at Brandon in Norfolk, and by others who travelled those parts at the same time, lying betwixt Cambridge and Botsam, there was seen a broach or sharpe steeple ascending out of a Cloud like a Church which removed from place to place: This steeple after<g ref="char:EOLhyphen"/>wards did split it selfe into three parts, of three distinct co<g ref="char:EOLhyphen"/>lours; the one red; the other yellow; and the third blew: one of which being highest sunck down lower, and out of it went forth a great Ball of fire towards the two Townes in Cambridgshire, the one called Sopham, the other Sop<g ref="char:EOLhyphen"/>ham
+<pb n="3" facs="tcp:159791:3"/> Bullbark, scorching and singing the grasse and the grain as it went, and left a very hot and strong scent of Brimstone behind it; The sight of which fire, with the smoak which it caused, was so terrible to the Inhabitants of both the said Sophams, that they caused their Bells to be rung backwards, as fearing a judgment, or firing of their houses from Heaven: Which sight was also terrible to ma<g ref="char:EOLhyphen"/>ny more; but they of Sopham Bullbark were the rather possessed with this feare, because that not above two years since, a Chappell there, and part of the Mannor house were set on fire from Heaven.</p>
+            <p>These Apparitions of a steeple in severall places thus assaulted with Swords and Pikes, seemes to fore-warn us of further troubles in or about the Church and Church Affaires.</p>
+            <p>Yet the said Ball of fire when it had ran his circuit or course, returned and re-entred into the steeple or forme of a Distellatery, out of which it first issued. There was thun<g ref="char:EOLhyphen"/>der that afternoon in many places, with very great store of Rain, and Haile-stones of a strange bignesse, and of extra<g ref="char:EOLhyphen"/>ordinary forms: many of the said stones being bigger then Pigeons Egges, and some of them were round and hallow like rings, and were taken up and put upon mens fingers.</p>
+            <p>At Brandon, besides the Spire St<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eple opposed from hea<g ref="char:EOLhyphen"/>ven by a Pike, was a great Fleet of ships presented in the Ayre, all of them under sayle, and with their Flags hanged out: of which spectacle there were many beholders and witnesses: The same day there was a Navie of ships seene in the Ayre by some persons of understanding and repute at <hi>London,</hi> as they passed over the <hi>Thames,</hi> and might have been observed by many more, if they had regarded how the Ayre was affected. This fore-tells us, that we are like to have conflicts by Sea aswell as by Land; yea, that our Country may be assaulted, and invaded by Forraigners.</p>
+            <p>Lastly, betwixt New-Market and Whitford bridge, three men appeared in the Ayre grappling together, and haling
+<pb n="4" facs="tcp:159791:4"/> or tugging each other; wherof one at the first had a sword. This number of the three Combatants &amp; the steeple which was split or divided into 3 parts, or lesser steeples, seemes to threaten further divisions in the three Kingdoms if not hostility, among three sorts of religious men. The Lord grant that the Inhabitants of the three Kingdoms, &amp; more especially those of the English Eastern Association may so speedily and throughly turn to the Lord, and to cleave to him that by his Spirit of Truth and Unity, they may bee made one new people, serving the Lord in the Truth and Unity of his Spirit and may be made subfirment to each o<g ref="char:EOLhyphen"/>ther in love and peace, through Christ Jesus, <hi>Amen.</hi>
+            </p>
+            <p>But whatsoever our future sufferings may be, we are not likely to be scourged exercised, or tryed alone; for up<g ref="char:EOLhyphen"/>on the same day of <hi>May</hi> according to their old stile &amp; ac<g ref="char:EOLhyphen"/>count there were many fights, no lesse strange and terrible seen at the Hague, the chiefe City of the Court of Nether<g ref="char:EOLhyphen"/>lands or the Low Countries, as followeth:</p>
+            <p n="1">1. There appeared betwixt twelve and one of the clock in the afternoon, in a very cleere and bright day, a round circle about the bignesse of a round table, of the colour of gray paper, which seemed to be the Theater of the Specta<g ref="char:EOLhyphen"/>cles and Sights afterwards presented.</p>
+            <p n="2">2. There appeared there without a Lyon and a Dragon which fought ferafully against each other, and the Dra<g ref="char:EOLhyphen"/>gon did terribly spit or spew forth much fire upon the Lyon, but in conclusion the Lyon overcame the dragon, and so the dragon vanished leaving the Lyon behind him in that place.</p>
+            <p n="3">3. There were incontienly seen with the Lyon a great multitude of Souldiery or Warlike people, and there ap<g ref="char:EOLhyphen"/>peared a Dragon like the former with a great Army or boast likewise aswell horse as foot, every Troope &amp; Com<g ref="char:EOLhyphen"/>pany of which Army, had a Trumpeter before them who were perfectly seen to set their Trumptes to their mouths which Armies began to troope and march, and so warred
+<pb n="5" facs="tcp:159791:4"/> against the other side, that it was doubtfull to the Spectators who should have the day or get the victory, all which forces afterwards vanished, the two Generals the Lyon and the Dra- still abiding in fight.</p>
+            <p n="4">4. There appeared a King with three Crowns upon his head sitting upon a royall throne &amp; having many attendants round about his throne who afterwards disappeared leaving the Lyon and the Dragon still in view.</p>
+            <p n="5">5. There appeared a great heape of mens hands, and in another place were seene a great company of mens bodies, which were headlesse, which also afterwards vanished, but the Lyon and the Dragon continued still in fight.</p>
+            <p n="7">7. There appeared a very great Fleet of Ships from the South West, which moved towards the South East neer unto the Ly<g ref="char:EOLhyphen"/>on and the Dragon, where the fight had been. There were ma<g ref="char:EOLhyphen"/>ny men with their bodies seen above board or upon the Decks of the ships, who handled their tackling, or were observed to hoyse up their Sayles. These ships did drive one against, or tho<g ref="char:EOLhyphen"/>row another, as in a Sea-fight. After this, all stood still, and was quiet, and the Lyon and the Dragon embraced each other, and so fell off, or disappeared.</p>
+            <p>Lastly, there appeared a great Cloud, which was not there before, and continued for a space, but a wind came, and drove that away; so all was silence and cleare again.</p>
+            <p>This was seen (saith the Dutch Copy) by many hundreds at the same time, but the signification thereof is known to God.</p>
+            <p>Yet that God who caused all this to be seen, intended to signifie therby what he is about to do especially in those parts; And we hope it shall neither offend his Majesty, nor displease any sober and judicious persons to make a wholesome appli<g ref="char:EOLhyphen"/>cation of these things, with probable and conjectures and ob<g ref="char:EOLhyphen"/>servations thereupon.</p>
+            <p>First the Lyon and the Dragon cannot represent our blessed Saviour, and his grand Adversary the Divell, for they can' ne<g ref="char:EOLhyphen"/>ver be reconci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed as the Lyon and Dragon were in conclusion. Therefore in all probability these with the rest of the specta<g ref="char:EOLhyphen"/>cles in this eminent and remarkable Apparition, must repre<g ref="char:EOLhyphen"/>sent the future actions, and transactions of some illustriou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> persons and States now upon the Earth, and shortly to be ac<g ref="char:EOLhyphen"/>complished.</p>
+            <pb n="6" facs="tcp:159791:5"/>
+            <p>There have been of late some passages and predictions of fu<g ref="char:EOLhyphen"/>ture jars, yea war to break forth betwixt the States of Holland who give the Lyon, and the Kingdom of France who are yet in league together; but what relation the Dragon hath to France is to me unknown.</p>
+            <p>It is well known, that not onely the Elector Palatine, but the States of Holland, yea most Princes in Europe give the Ly<g ref="char:EOLhyphen"/>on one way or other; so that the Lyon may concern all Eu<g ref="char:EOLhyphen"/>rope in generall, though it may reflect upon Germany in spe<g ref="char:EOLhyphen"/>ciall, and the States of the Low-Countries more particularly. The Dragon may signifie the Turk, yet an enemy of Christ, the Lyon of the Tribe of Judah, who makes great and hostile pre<g ref="char:EOLhyphen"/>parations against our Christian Europe. The King with three Crownes seemes to represent the King of England, who may joyn in assistance of the German European Lyon, or come in to desire the States. In the first fight the Dragon will be over<g ref="char:EOLhyphen"/>come, but afterwards he will conquer his forces, and great wars will ensue.</p>
+            <p>The heads upon an heap fore-tells what will ensue; perhaps rhe Turk offended with his Generall, his Admirall, or some great Agent, may cut him off with many more. However it is too too probable, that there will be great civill executions, and cutting off persons, by way of dicollation or beheading them, who have been thought the Authors of the wars, or unfaithfull in their places of Trust, The horseman who shot himself tho<g ref="char:EOLhyphen"/>row is some great undertaker by hand, as it seemes, who shall but work his own overthrow, by his own enterprises.</p>
+            <p>The Fleet from the South-West may be a Navie from France and those parts, or rather a Fleet from Europe to encounter the Eastern Enemy and Turkish Navie. Whatsoever these great Warriors be, they shall in the end embrace peace, and each o<g ref="char:EOLhyphen"/>ther therein; The Turk may be converted and become a chri<g ref="char:EOLhyphen"/>stian Brother. The Cloud now seen, and not before, in a sad presage of the great sorrow which shall remain for a time af<g ref="char:EOLhyphen"/>ter so much blood-shed and calamity caused by these wars.</p>
+            <p>The wind that dispierced the Cloud seemes to be the sweet Gayle of Gods Spirit, which through the Gospell shall quiet and comfort all again.</p>
+            <closer>
+               <hi>Come Lord Iesus,</hi> Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
